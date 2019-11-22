@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
         recyclerView.setAdapter(adapter);
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
         */
+        
         // modelScreen = new ViewModelProvider(this).get(ModelScreen.class);
         // modelScreen.showData(adapter, date);
 
